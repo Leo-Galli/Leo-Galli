@@ -111,6 +111,7 @@ Hi there, I’m **Leonardo Galli** — a passionate and versatile developer from
 
 # 🔝 Featured Repositories
 [![Repo 74181](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=74181&theme=dark)](https://github.com/Leo-Galli/74181)  
+[![Repo Overkill](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Overkill&theme=dark)](https://github.com/Leo-Galli/Overkill)  
 
 ---
 
