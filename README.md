@@ -58,19 +58,31 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 
 ### 🛡️ Progetti in Evidenza
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="10" border="0">
   <tr>
-    <!-- Aegis-Beacon Card reale presa da GitHub -->
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/Leo-Galli/Aegis-Beacon">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Aegis-Beacon&theme=tokyonight&show_owner=false&cache_seconds=86400" alt="Aegis-Beacon" width="100%" />
-      </a>
+    <!-- Aegis-Beacon Custom Card -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117; padding: 15px;">
+      <div align="left">
+        <h3>🛡️ <a href="https://github.com/Leo-Galli/Aegis-Beacon" style="text-decoration: none; color: #58a6ff;">Aegis-Beacon</a></h3>
+        <p style="color: #8b949e; font-size: 14px; min-height: 50px;">Un sistema robusto e ad alte prestazioni progettato per il monitoraggio, la sicurezza e la gestione della rete dei beacon.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/Type-Library-blue?style=flat-square" alt="Type" />
+          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+        </p>
+      </div>
     </td>
-    <!-- 74181 Card reale presa da GitHub -->
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/Leo-Galli/74181">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=74181&theme=tokyonight&show_owner=false&cache_seconds=86400" alt="74181" width="100%" />
-      </a>
+    <!-- 74181 Custom Card -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117; padding: 15px;">
+      <div align="left">
+        <h3>📟 <a href="https://github.com/Leo-Galli/74181" style="text-decoration: none; color: #58a6ff;">74181 ALU</a></h3>
+        <p style="color: #8b949e; font-size: 14px; min-height: 50px;">Emulazione e riproduzione software della storica ALU a 4 bit 74181. Logica booleana e aritmetica a basso livello.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/Type-Emulator-orange?style=flat-square" alt="Type" />
+          <img src="https://img.shields.io/badge/Domain-Hardware-blueviolet?style=flat-square" alt="Domain" />
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -89,7 +101,7 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 ### 🌐 Contatti & Social
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-galli-a581b3349/" target="_blank">
+  <a href="https://www.linkedin.com/in/leogalli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/Leo_nardo_ita" target="_blank">
