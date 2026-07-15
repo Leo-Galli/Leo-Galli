@@ -58,37 +58,19 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 
 ### 🛡️ Progetti in Evidenza
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Aegis-Beacon -->
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Leo-Galli/Aegis-Beacon">Aegis-Beacon</a></h3>
-      <p>Un sistema robusto e ad alte prestazioni progettato per il monitoraggio, la sicurezza e la gestione della rete dei beacon.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Security-Red?style=flat-square" alt="Security">
-      </p>
+    <!-- Aegis-Beacon Card reale presa da GitHub -->
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <a href="https://github.com/Leo-Galli/Aegis-Beacon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Aegis-Beacon&theme=tokyonight&show_owner=false&cache_seconds=86400" alt="Aegis-Beacon" width="100%" />
+      </a>
     </td>
-    <!-- 74181 -->
-    <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/Leo-Galli/74181">74181 Arithmetic Logic Unit</a></h3>
-      <p>Emulazione e riproduzione software della storica ALU a 4 bit 74181. Logica booleana e aritmetica a basso livello.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/Hardware-Emulator-blue?style=flat-square" alt="Emulator">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Overkill -->
-    <td width="50%" valign="top" colspan="2">
-      <h3>⚡ <a href="https://github.com/Leo-Galli/Overkill">Overkill</a></h3>
-      <p>Un framework/tool ad altissime prestazioni ottimizzato per gestire carichi di lavoro intensivi senza colli di bottiglia.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-        <img src="https://img.shields.io/badge/Performance-Optimized-brightgreen?style=flat-square" alt="Optimized">
-      </p>
+    <!-- 74181 Card reale presa da GitHub -->
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <a href="https://github.com/Leo-Galli/74181">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=74181&theme=tokyonight&show_owner=false&cache_seconds=86400" alt="74181" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
@@ -98,8 +80,8 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 ### 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Galli&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Galli&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" alt="Top Languages" />
 </p>
 
 ---
