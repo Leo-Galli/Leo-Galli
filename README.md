@@ -2,9 +2,9 @@
 ### *Crafting logic, one line at a time.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Italy%20%F0%9F%87%AE%F0%9F%87%B9-003366?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Status-Learning%20DevOps-2ea44f?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Location-Italy%20%F0%9F%87%AE%F0%9F%87%B9-003366?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Status-Learning%20DevOps-2ea44f?style=flat-square" alt="Status" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architetture pulite, l'automazione e le performance.
 
-⚽ **Arbitro sul campo, ingegnere nel codice.** Porto la stessa precisione chirurgica, rapidità decisionale e rispetto delle regole che applico sul terreno di gioco direttamente nelle mie pipeline e nei miei algoritmi. Che si tratti di programmare plugin complessi per Minecraft, ottimizzare web app o scrivere system tools, cerco sempre l'esecuzione perfetta.
+⚽ **Arbitro sul campo, ingegnere nel codice.** Porto la stessa precisione chirurgica, rapidità decisionale e rispetto delle regole che applico sul terreno di gioco direttamente nelle mie pipeline e nei miei algoritmi. Che si tratti di programmare firmware per microcontroller, ottimizzare web app o scrivere system tools, cerco sempre l'esecuzione perfetta.
 
 - 🔭 **Focus attuale:** Architetture software avanzate, Web Apps e System Tools.
 - 🌱 **In fase di studio:** DevOps (CI/CD), Cloud Deployment, Cybersecurity e AI/ML.
@@ -26,12 +26,13 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 #### 🚀 Linguaggi di Programmazione
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 #### 🌐 Web & Database
@@ -58,43 +59,19 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architet
 
 ### 🛡️ Progetti in Evidenza
 
-<table width="100%" cellspacing="0" cellpadding="10" border="0">
-  <tr>
-    <!-- Aegis-Beacon Custom Card -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117; padding: 15px;">
-      <div align="left">
-        <h3>🛡️ <a href="https://github.com/Leo-Galli/Aegis-Beacon" style="text-decoration: none; color: #58a6ff;">Aegis-Beacon</a></h3>
-        <p style="color: #8b949e; font-size: 14px; min-height: 50px;">Un sistema robusto e ad alte prestazioni progettato per il monitoraggio, la sicurezza e la gestione della rete dei beacon.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/Type-Library-blue?style=flat-square" alt="Type" />
-          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
-        </p>
-      </div>
-    </td>
-    <!-- 74181 Custom Card -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117; padding: 15px;">
-      <div align="left">
-        <h3>📟 <a href="https://github.com/Leo-Galli/74181" style="text-decoration: none; color: #58a6ff;">74181 ALU</a></h3>
-        <p style="color: #8b949e; font-size: 14px; min-height: 50px;">Emulazione e riproduzione software della storica ALU a 4 bit 74181. Logica booleana e aritmetica a basso livello.</p>
-        <p>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-          <img src="https://img.shields.io/badge/Type-Emulator-orange?style=flat-square" alt="Type" />
-          <img src="https://img.shields.io/badge/Domain-Hardware-blueviolet?style=flat-square" alt="Domain" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+#### 🛡️ [Aegis-Beacon](https://github.com/Leo-Galli/Aegis-Beacon)
+Un sistema robusto e ad alte prestazioni sviluppato per Arduino, progettato per il monitoraggio, la sicurezza e la gestione intelligente della rete dei beacon.
+*   **Tecnologie:** 
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Hardware-IoT-blue?style=flat-square" alt="IoT" />
 
----
-
-### 📊 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Galli&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" alt="Top Languages" />
-</p>
+#### 📟 [74181 Arithmetic Logic Unit](https://github.com/Leo-Galli/74181)
+Emulazione software pulita e fedele della storica ALU a 4-bit hardware 74181, scritta interamente in ANSI C per garantire massima portabilità e performance.
+*   **Tecnologie:** 
+    <img src="https://img.shields.io/badge/ANSI_C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="ANSI C" />
+    <img src="https://img.shields.io/badge/Type-Emulator-orange?style=flat-square" alt="Emulator" />
+    <img src="https://img.shields.io/badge/Domain-Low_Level-blueviolet?style=flat-square" alt="Low Level" />
 
 ---
 
