@@ -9,54 +9,53 @@
 
 ---
 
-### 📖 About Me
-Ciao! Sono **Leonardo**, uno sviluppatore versatile appassionato di tecnologia a 360 gradi.  
+### 📖 Chi Sono
 
-💡 Amo unire creatività e logica per costruire soluzioni che spaziano dai **plugin per Minecraft** a complesse **piattaforme web** e strumenti di **automazione**.  
-⚡ Porto nel codice la stessa disciplina che applico come **arbitro di calcio**: correttezza, struttura ed esecuzione pulita.  
-🌍 Sono un esploratore tecnologico: sempre alla ricerca di nuovi framework e metodologie per migliorare il mio workflow.
+Ciao! Sono **Leonardo**, uno sviluppatore versatile con la fissa per le architetture pulite e l'automazione. 
 
-- 🔭 **Focus attuale:** Plugin Minecraft avanzati, Web Apps e System Tools.
-- 🌱 **In fase di studio:** Cloud Deployment, DevOps (CI/CD), AI/ML e Cybersecurity.
-- 🤝 **Collaborazioni:** Aperto a progetti Open-Source e strumenti per developer.
-- 🎯 **Obiettivo:** Crescere come Full-Stack Engineer e contribuire attivamente alla community.
+⚽ **Arbitro sul campo, ingegnere nel codice.** Porto la stessa precisione chirurgica e il rispetto delle regole che applico sul terreno di gioco direttamente nelle mie pipeline e nei miei algoritmi. Che si tratti di sviluppare plugin complessi per Minecraft, ottimizzare web app o scrivere system tools a basso livello, cerco sempre l'esecuzione perfetta.
+
+- 🔭 **Focus attuale:** Plugin Minecraft avanzati, Web Apps performanti e System Tools.
+- 🌱 **In fase di studio:** DevOps (CI/CD), Cloud Deployment, Cybersecurity e AI/ML.
+- 🤝 **Open Source:** Sempre pronto a collaborare su progetti stimolanti e strumenti per developer.
+- 🎯 **Obiettivo:** Consolidare le mie competenze Full-Stack ed esplorare l'universo Cloud-Native.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Programming Languages
+#### 🚀 Linguaggi di Programmazione
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-#### 🌐 Web & Databases
+#### 🌐 Web & Database
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-#### ⚙️ DevOps & Tools
+#### ⚙️ DevOps & Strumenti
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### 🖥️ OS & IDEs
+#### 🖥️ OS & Sviluppo
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -66,7 +65,33 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile appassionato di tecnologia a
 
 ---
 
-### 📊 Performance & Stats
+### 🛡️ Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo-Galli/Aegis-Beacon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Aegis-Beacon&theme=tokyonight" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo-Galli/74181">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=74181&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <a href="https://github.com/Leo-Galli/Overkill">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Overkill&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leo-Galli&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&layout=compact&theme=tokyonight" width="48%" />
@@ -78,23 +103,11 @@ Ciao! Sono **Leonardo**, uno sviluppatore versatile appassionato di tecnologia a
 
 ---
 
-### 🔝 Featured Projects
-<p align="center">
-  <a href="https://github.com/Leo-Galli/74181">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=74181&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Leo-Galli/Overkill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Galli&repo=Overkill&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect with me
+### 🌐 Contatti & Social
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-galli-a581b3349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/Leo_nardo_ita"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/166WN27U7a/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-galli-a581b3349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/Leo_nardo_ita"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/166WN27U7a/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
 <br />
