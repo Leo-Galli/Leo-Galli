@@ -4,13 +4,13 @@
 
 ### **Full-Stack Developer | IoT Developer | Low-Level & Systems Enthusiast**
 
-**📍 Italy** | **⚽ Referee & Coder** | **⚙️ DevOps Learner**
+**📍 Italy** | **⚽ Referee & Coder** | **⚙️ DevOps Learner** | **🌐 [another-horizon.eu](https://another-horizon.eu)**
 
 *Plasmando logica a basso livello, costruendo sistemi intelligenti e automatizzando il futuro.*
 
 ---
 
-<img src="banner.svg" width="100%" alt="Leonardo Galli — Full-Stack Developer, IoT Developer, Low-Level & Systems Enthusiast" />
+<img src="banner.svg" width="100%" style="transform: rotate(-1.5deg); border-radius: 12px;" alt="Leonardo Galli — Full-Stack Developer, IoT Developer, Low-Level & Systems Enthusiast" />
 
 </div>
 
@@ -60,7 +60,7 @@ Porto nel codice la stessa disciplina, rapidità decisionale e rispetto delle re
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### Aegis-Beacon
 Sistema ad alte prestazioni per **Arduino** dedicato al monitoraggio e alla sicurezza di rete dei beacon.
@@ -68,7 +68,7 @@ Sistema ad alte prestazioni per **Arduino** dedicato al monitoraggio e alla sicu
 [![GitHub](https://img.shields.io/badge/GitHub-Arduino_/_C++-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Leo-Galli/Aegis-Beacon)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 74181 ALU
 Emulatore software ad altissima fedeltà dello storico chip **ALU a 4-bit**, con supporto a cascata fino a 32 bit.
@@ -76,12 +76,23 @@ Emulatore software ad altissima fedeltà dello storico chip **ALU a 4-bit**, con
 [![GitHub](https://img.shields.io/badge/GitHub-ANSI_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/Leo-Galli/74181)
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### Hydra-Obsidian
 Framework distribuito per l'orchestrazione di cluster ad alte prestazioni: **ZMQ-mesh**, telemetria hardware in tempo reale e load balancing dinamico.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Leo-Galli/Hydra-Obsidian)
+
+</td>
+<td align="center" width="50%">
+
+### Another-Horizon
+Sito web business moderno con UI/UX curata, realizzato in **React**.
+
+[![Website](https://img.shields.io/badge/Website-Visit-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://another-horizon.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Leo-Galli/Another-Horizon)
 
 </td>
 </tr>
@@ -95,6 +106,8 @@ Framework distribuito per l'orchestrazione di cluster ad alte prestazioni: **ZMQ
 
 <div align="center">
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Leo-Galli&theme=tokyonight&no-frame=true&row=2&column=4)
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Leo-Galli&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&theme=tokyonight&layout=compact&hide_border=true)
@@ -107,6 +120,7 @@ Framework distribuito per l'orchestrazione di cluster ad alte prestazioni: **ZMQ
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-another--horizon.eu-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://another-horizon.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leogalli-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leogalli/)
 [![Instagram](https://img.shields.io/badge/Instagram-@Leo__nardo__ita-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/Leo_nardo_ita)
 [![Facebook](https://img.shields.io/badge/Facebook-Leonardo_Galli-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/166WN27U7a/)
