@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Ciao, sono Leonardo Galli
+# 👋 Hi, I'm Leonardo Galli
 
 ### **Full-Stack Developer | IoT Developer | Low-Level & Systems Enthusiast**
 
 **📍 Italy** | **⚽ Referee & Coder** | **⚙️ DevOps Learner** | **🌐 [another-horizon.eu](https://another-horizon.eu)**
 
-*Plasmando logica a basso livello, costruendo sistemi intelligenti e automatizzando il futuro.*
+*Shaping low-level logic, building intelligent systems and automating the future.*
 
 ---
 
@@ -14,18 +14,18 @@
 
 </div>
 
-## 🚀 Chi Sono
+## 🚀 About Me
 
-Sono **Leonardo** (chiamami pure **Leo**): sviluppatore **17enne** con la fissa per le architetture pulite, l'automazione, il firmware e le performance. Programmo da giovanissimo e oggi trasformo curiosità e disciplina in software che funziona davvero — dal singolo byte in puro C fino alle pipeline distribuite.
+I'm **Leonardo** (just call me **Leo**): a **17-year-old** developer obsessed with clean architecture, automation, firmware and performance. I've been coding from a very young age and today I turn curiosity and discipline into software that actually works — from single bytes in pure C to distributed pipelines.
 
-Porto nel codice la stessa disciplina, rapidità decisionale e rispetto delle regole che applico come **arbitro di calcio** sul terreno di gioco. Che si tratti di scrivere firmware per microcontroller, ottimizzare web app o costruire system tools in ANSI C, cerco sempre l'esecuzione perfetta.
+I bring to code the same discipline, quick decision-making and respect for the rules I apply on the pitch as a **football referee**. Whether it's writing firmware for microcontrollers, optimizing web apps or building system tools in ANSI C, I always aim for perfect execution.
 
-**Cosa faccio:**
-- 📟 **Low-Level Development** — Emulazione hardware, architetture a 4-bit e programmazione in puro ANSI C.
-- 🛡️ **IoT & Microcontrollers** — Firmware sicuro e ad alte prestazioni per Arduino e sistemi embedded.
-- 🏗️ **Full-Stack Architecture** — Dalla logica di backend fino alle moderne interfacce utente.
-- ⚙️ **DevOps & Automation** — Pipeline CI/CD, containerizzazione con Docker e gestione di infrastrutture Cloud.
-- 🔐 **Cybersecurity & Networking** — La sicurezza come principio di design, non come ripensamento.
+**What I do:**
+- 📟 **Low-Level Development** — Hardware emulation, 4-bit architectures and pure ANSI C programming.
+- 🛡️ **IoT & Microcontrollers** — Secure, high-performance firmware for Arduino and embedded systems.
+- 🏗️ **Full-Stack Architecture** — From backend logic to modern user interfaces.
+- ⚙️ **DevOps & Automation** — CI/CD pipelines, Docker containerization and cloud infrastructure management.
+- 🔐 **Cybersecurity & Networking** — Security as a design principle, not an afterthought.
 
 ---
 
@@ -56,14 +56,14 @@ Porto nel codice la stessa disciplina, rapidità decisionale e rispetto delle re
 
 ---
 
-## 🎯 Progetti in Evidenza
+## 🎯 Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
 
 ### Aegis-Beacon
-Sistema ad alte prestazioni per **Arduino** dedicato al monitoraggio e alla sicurezza di rete dei beacon.
+High-performance **Arduino** system for beacon network monitoring and security.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arduino_/_C++-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Leo-Galli/Aegis-Beacon)
 
@@ -71,7 +71,7 @@ Sistema ad alte prestazioni per **Arduino** dedicato al monitoraggio e alla sicu
 <td align="center" width="50%">
 
 ### 74181 ALU
-Emulatore software ad altissima fedeltà dello storico chip **ALU a 4-bit**, con supporto a cascata fino a 32 bit.
+High-fidelity software emulator of the historic **4-bit ALU** chip, cascadable up to 32 bits.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANSI_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/Leo-Galli/74181)
 
@@ -81,7 +81,7 @@ Emulatore software ad altissima fedeltà dello storico chip **ALU a 4-bit**, con
 <td align="center" width="50%">
 
 ### Hydra-Obsidian
-Framework distribuito per l'orchestrazione di cluster ad alte prestazioni: **ZMQ-mesh**, telemetria hardware in tempo reale e load balancing dinamico.
+Distributed computing framework for high-performance cluster orchestration: **ZMQ-mesh**, real-time hardware telemetry and dynamic load balancing.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Leo-Galli/Hydra-Obsidian)
 
@@ -89,7 +89,7 @@ Framework distribuito per l'orchestrazione di cluster ad alte prestazioni: **ZMQ
 <td align="center" width="50%">
 
 ### Another-Horizon
-Sito web business moderno con UI/UX curata, realizzato in **React**.
+Modern business website with polished UI/UX, built in **React**.
 
 [![Website](https://img.shields.io/badge/Website-Visit-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://another-horizon.eu)
 [![GitHub](https://img.shields.io/badge/GitHub-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Leo-Galli/Another-Horizon)
@@ -98,25 +98,27 @@ Sito web business moderno con UI/UX curata, realizzato in **React**.
 </tr>
 </table>
 
-> 💡 **E molto altro:** esplora tutte le repository su [github.com/Leo-Galli](https://github.com/Leo-Galli?tab=repositories).
+> 💡 **And much more:** explore all the repositories at [github.com/Leo-Galli](https://github.com/Leo-Galli?tab=repositories).
 
 ---
 
-## 📈 Statistiche GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Leo-Galli&theme=tokyonight&no-frame=true&row=2&column=4)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Leo-Galli&theme=tokyonight)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Leo-Galli&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Leo-Galli&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Galli&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Leo-Galli&theme=tokyonight&layout=compact&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Galli&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Connettiamoci
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -130,29 +132,29 @@ Sito web business moderno con UI/UX curata, realizzato in **React**.
 
 ---
 
-## 📖 Filosofia di Sviluppo
+## 📖 Dev Philosophy
 
-> *"Il codice pulito è come una partita arbitrata bene: quando tutto funziona alla perfezione, nessuno si accorge che ci sei."*
+> *"Clean code is like a well-refereed match: when everything works perfectly, nobody notices you're there."*
 
-I miei principi cardine:
-- **Scrittura Pulita** — Codice leggibile, efficiente e documentato.
-- **Approccio Low-Level** — Capire cosa succede sotto al cofano per scrivere software migliore sopra.
-- **Continuous Learning** — DevOps e Cybersecurity non sono opzionali, sono le fondamenta.
-- **Quality over Quantity** — Poche architetture solide valgono più di tante feature fragili.
-- **Collaborazione** — Il codice migliore nasce dal confronto e dall'open source.
+My core principles:
+- **Clean Code** — Readable, efficient and well-documented code.
+- **Low-Level First** — Understand what happens under the hood to write better software on top.
+- **Continuous Learning** — DevOps and Cybersecurity aren't optional, they're the foundation.
+- **Quality over Quantity** — A few solid architectures beat many fragile features.
+- **Collaboration** — The best code comes from open source and shared knowledge.
 
 <br />
 
 <div align="center">
 
-### 🌟 Creiamo qualcosa di straordinario insieme!
+### 🌟 Let's build something amazing together!
 
-**Disponibile per collaborazioni su progetti Open-Source, Firmware, IoT e Backend.**
+**Open to collaborations on Open-Source, Firmware, IoT and Backend projects.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Leo--Galli-181717?style=for-the-badge&logo=github)](https://github.com/Leo-Galli)
 
 <br />
 
-![Views](https://visitcount.itsvg.in/api?id=Leo-Galli&icon=3&color=4)
+![Views](https://komarev.com/ghpvc/?username=Leo-Galli&style=flat-square&color=0e75b6)
 
 </div>
