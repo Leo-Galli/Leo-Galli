@@ -10,7 +10,7 @@
 
 ---
 
-<img src="banner.svg" width="100%" style="transform: rotate(-1.5deg); border-radius: 12px;" alt="Leonardo Galli — Full-Stack Developer, IoT Developer, Low-Level & Systems Enthusiast" />
+<img src="banner.gif" width="100%" style="transform: rotate(-1.5deg); border-radius: 12px;" alt="Leonardo Galli — Full-Stack Developer, IoT Developer, Low-Level & Systems Enthusiast" />
 
 </div>
 
@@ -113,6 +113,16 @@ Modern business website with polished UI/UX, built in **React**.
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Leo-Galli&theme=tokyonight&layout=compact&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Galli&theme=tokyo-night&hide_border=true)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo-Galli/Leo-Galli/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo-Galli/Leo-Galli/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Leo-Galli/Leo-Galli/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
