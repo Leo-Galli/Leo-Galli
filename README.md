@@ -2,84 +2,69 @@
 
 <img src="banner.gif" width="100%" alt="Leonardo Galli — Another Horizon" />
 
-<br />
-<br />
-
 # Leonardo Galli
 
 **Software engineer · Football referee**
 
-Italy · [another-horizon.eu](https://another-horizon.eu) · [hello@another-horizon.eu](mailto:hello@another-horizon.eu)
+<img src="assets/horizon.svg" width="320" height="28" alt="" />
 
 *Practical technology, open-source projects and solutions designed to work offline too.*
-
-<img src="assets/horizon.svg" width="320" height="28" alt="" />
 
 </div>
 
 ---
 
-## The horizon
+<h3 align="center">The suite</h3>
 
-**Another Horizon** is my personal space on the web — not a shop and not an agency. Software engineer by
-passion, football referee once the boots come off: two worlds that look nothing alike and both need the
-same things — focus, rules and showing up prepared.
-
-I work at both ends of the stack. Close to the metal with firmware, ANSI C and historic hardware;
-close to the user with static-first web apps that load fast, keep working offline and track as little
-as possible. Whatever I publish should be readable, honest and useful.
-
----
-
-## What I build
-
-| Focus | What it means in practice |
-| --- | --- |
-| **Low-level & systems** | Hardware emulation, 4-bit architectures and tooling written in ANSI C. |
-| **IoT & firmware** | Secure, high-performance firmware for Arduino and embedded targets. |
-| **Full-stack web** | Static-first front ends and serverless backends, no accounts and no tracking by default. |
-| **DevOps & automation** | CI/CD pipelines, containers and infrastructure as code. |
-| **Security & networking** | Security as a design principle, never an afterthought. |
-
----
-
-## The Another Horizon suite
-
-Each service lives on its own subdomain, shares one design system, one blue palette and one light/dark
-theme that follows you across the whole site.
-
-| Service | What it does |
-| --- | --- |
-| **[another-horizon.eu](https://another-horizon.eu)** | Home base: who I am, selected work and contact. |
-| **[projects](https://projects.another-horizon.eu)** | Every project and subdomain in one place. |
-| **[chatbot](https://chatbot.another-horizon.eu)** | In-browser AI chat: dozens of open models running locally through WebGPU, history kept in `localStorage`. |
-| **[ai](https://ai.another-horizon.eu)** | Per-call and per-million-call price trends for AI APIs, by purpose, with charts, search and filters. |
-| **[calculator](https://calculator.another-horizon.eu)** | Standard, scientific, programmer and unit-conversion calculator. |
-| **[clock](https://clock.another-horizon.eu)** | World clock for any IANA time zone, plus stopwatch, timer, alarms and calendar. |
-| **[games](https://games.another-horizon.eu)** | Eight dependency-free browser mini-games. |
-| **[3d](https://3d.another-horizon.eu)** | Printable 3D models with an in-browser viewer. |
-| **[referee](https://referee.another-horizon.eu)** | Football laws, referee positioning and a European match-report directory. |
-| **[newsletter](https://newsletter.another-horizon.eu)** | Secure newsletter portal and admin console, with Google sign-in. |
-| **[status](https://status.another-horizon.eu)** | Live uptime, response time and incident history for every service. |
-| **[legal](https://legal.another-horizon.eu)** | Privacy, cookies, terms and security hub. |
-| **[beacon](https://beacon.another-horizon.eu)** | Aegis-Beacon: beacon-network monitoring and security. |
+<p align="center">
+  <a href="https://another-horizon.eu"><img src="https://img.shields.io/badge/another--horizon.eu-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="another-horizon.eu" /></a>
+  <a href="https://projects.another-horizon.eu"><img src="https://img.shields.io/badge/projects-0ea5e9?style=for-the-badge&logo=files&logoColor=white" alt="Projects" /></a>
+  <a href="https://chatbot.another-horizon.eu"><img src="https://img.shields.io/badge/chatbot-0ea5e9?style=for-the-badge" alt="Chatbot" /></a>
+  <a href="https://ai.another-horizon.eu"><img src="https://img.shields.io/badge/ai-0ea5e9?style=for-the-badge" alt="AI" /></a>
+</p>
+<p align="center">
+  <a href="https://calculator.another-horizon.eu"><img src="https://img.shields.io/badge/calculator-0ea5e9?style=for-the-badge" alt="Calculator" /></a>
+  <a href="https://clock.another-horizon.eu"><img src="https://img.shields.io/badge/clock-0ea5e9?style=for-the-badge&logo=clockify&logoColor=white" alt="Clock" /></a>
+  <a href="https://games.another-horizon.eu"><img src="https://img.shields.io/badge/games-0ea5e9?style=for-the-badge" alt="Games" /></a>
+  <a href="https://3d.another-horizon.eu"><img src="https://img.shields.io/badge/3d-0ea5e9?style=for-the-badge&logo=blender&logoColor=white" alt="3D" /></a>
+</p>
+<p align="center">
+  <a href="https://referee.another-horizon.eu"><img src="https://img.shields.io/badge/referee-0ea5e9?style=for-the-badge" alt="Referee" /></a>
+  <a href="https://newsletter.another-horizon.eu"><img src="https://img.shields.io/badge/newsletter-0ea5e9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Newsletter" /></a>
+  <a href="https://status.another-horizon.eu"><img src="https://img.shields.io/badge/status-0ea5e9?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
+  <a href="https://legal.another-horizon.eu"><img src="https://img.shields.io/badge/legal-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Legal" /></a>
+  <a href="https://beacon.another-horizon.eu"><img src="https://img.shields.io/badge/beacon-0ea5e9?style=for-the-badge&logo=espressif&logoColor=white" alt="Beacon" /></a>
+</p>
 
 ---
 
-## Selected open source
+<h3 align="center">Open source</h3>
 
-| Project | Description | Built with |
-| --- | --- | --- |
-| **[Aegis-Beacon](https://github.com/Leo-Galli/Aegis-Beacon)** | High-performance beacon-network monitoring and security, from the Arduino firmware to the dashboard. | C++ · Arduino |
-| **[Hydra-Obsidian](https://github.com/Leo-Galli/Hydra-Obsidian)** | Industrial-grade distributed computing framework for cluster orchestration: ZMQ mesh, real-time hardware telemetry and gaming-aware load balancing. | Python |
-| **[74181](https://github.com/Leo-Galli/74181)** | Software simulator of the historic 4-bit arithmetic logic unit, cascadable up to 32 bits. | ANSI C |
-| **[games](https://github.com/Leo-Galli/games)** | The Another Horizon arcade: Snake, 2048, Memory, Minesweeper, Breakout, Tic-Tac-Toe, Simon and a reaction test. | JavaScript |
-
-> Everything else lives at [github.com/Leo-Galli?tab=repositories](https://github.com/Leo-Galli?tab=repositories).
+<p align="center">
+  <a href="https://github.com/Leo-Galli/Aegis-Beacon"><img src="https://img.shields.io/badge/Aegis--Beacon-0ea5e9?style=for-the-badge&logo=arduino&logoColor=white" alt="Aegis-Beacon" /></a>
+  <a href="https://github.com/Leo-Galli/Hydra-Obsidian"><img src="https://img.shields.io/badge/Hydra--Obsidian-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Hydra-Obsidian" /></a>
+  <a href="https://github.com/Leo-Galli/74181"><img src="https://img.shields.io/badge/74181-0ea5e9?style=for-the-badge&logo=c&logoColor=white" alt="74181" /></a>
+  <a href="https://github.com/Leo-Galli/games"><img src="https://img.shields.io/badge/games-0ea5e9?style=for-the-badge&logo=javascript&logoColor=white" alt="Games" /></a>
+  <a href="https://github.com/Leo-Galli?tab=repositories"><img src="https://img.shields.io/badge/all_repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+</p>
 
 ---
 
-## Tech stack
+<h3 align="center">Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Low--level_systems-0ea5e9?style=flat-square" alt="Low-level and systems" />
+  <img src="https://img.shields.io/badge/IoT_firmware-0ea5e9?style=flat-square" alt="IoT and firmware" />
+  <img src="https://img.shields.io/badge/Full--stack_web-0ea5e9?style=flat-square" alt="Full-stack web" />
+  <img src="https://img.shields.io/badge/DevOps_automation-0ea5e9?style=flat-square" alt="DevOps and automation" />
+  <img src="https://img.shields.io/badge/Security_networking-0ea5e9?style=flat-square" alt="Security and networking" />
+  <img src="https://img.shields.io/badge/Offline_by_default-0ea5e9?style=flat-square" alt="Offline by default" />
+  <img src="https://img.shields.io/badge/Open_by_default-0ea5e9?style=flat-square" alt="Open by default" />
+</p>
+
+---
+
+<h3 align="center">Tech</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0ea5e9?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -92,7 +77,6 @@ theme that follows you across the whole site.
   <img src="https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-0ea5e9?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0ea5e9?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-0ea5e9?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -106,7 +90,7 @@ theme that follows you across the whole site.
 
 ---
 
-## GitHub
+<h3 align="center">GitHub</h3>
 
 <div align="center">
 
@@ -126,29 +110,21 @@ theme that follows you across the whole site.
 
 ---
 
-## How I work
+<h3 align="center">Connect</h3>
 
-> *"Clean code is like a well-refereed match: when everything works, nobody notices you were there."*
+<p align="center">
+  <a href="https://another-horizon.eu"><img src="https://img.shields.io/badge/website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/Leo-Galli"><img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/leo-galli"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:hello@another-horizon.eu"><img src="https://img.shields.io/badge/email-0ea5e9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-- **Clean over clever** — readable, efficient, documented.
-- **Low-level first** — understand what happens underneath before building on top.
-- **Offline by default** — no accounts and no tracking unless a feature genuinely needs them.
-- **Quality over quantity** — a few solid architectures beat many fragile features.
-- **Open by default** — the best work comes from shared knowledge.
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leo-Galli&style=flat-square&color=0ea5e9" alt="Profile views" />
+</p>
 
 <div align="center">
 
-## Let's connect
-
-[![Website](https://img.shields.io/badge/another--horizon.eu-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://another-horizon.eu)
-[![GitHub](https://img.shields.io/badge/GitHub-Leo--Galli-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leo-Galli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leo--galli-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-galli)
-[![Email](https://img.shields.io/badge/Email-hello@another--horizon.eu-0ea5e9?style=for-the-badge)](mailto:hello@another-horizon.eu)
-
-**Open to collaboration on open source, firmware, IoT and backend projects.**
-
-![Views](https://komarev.com/ghpvc/?username=Leo-Galli&style=flat-square&color=0ea5e9)
+*"Clean code is like a well-refereed match: when everything works, nobody notices you were there."*
 
 </div>
