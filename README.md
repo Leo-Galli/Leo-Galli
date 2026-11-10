@@ -21,6 +21,26 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a1220,30:14b8a6,70:e5b567,100:0a1220" width="100%" alt="" />
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="260" valign="top"><b>WEB</b><br/><sub>Flask, FastAPI, Next.js<br/>vanilla JS single-page apps</sub></td>
+    <td align="center" width="260" valign="top"><b>EMBEDDED</b><br/><sub>ESP32, LoRa SX1262<br/>Arduino, GPS</sub></td>
+    <td align="center" width="260" valign="top"><b>PRINCIPLES</b><br/><sub>Offline-first<br/>readable code, honest docs</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Finalist at <b>HackersGen 2026</b> with <a href="https://beacon.another-horizon.eu"><b>Aegis-Beacon</b></a>, an open-source avalanche rescue beacon.</sub>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a1220,30:14b8a6,70:e5b567,100:0a1220" width="100%" alt="" />
+
 <br/>
 
 <p align="center"><sub><b>LANGUAGES</b></sub><br/>
@@ -59,6 +79,10 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a1220,30:14b8a6,70:e5b567,100:0a1220" width="100%" alt="" />
+
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Leo-Galli&show_icons=true&hide_border=true&bg_color=0a1220&title_color=e5b567&icon_color=14b8a6&text_color=cbd5e1" alt="GitHub stats" height="165" />
@@ -69,3 +93,7 @@
 <sub><i>Clean code is like a well-refereed match: when everything works, nobody notices you were there.</i></sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a1220,30:14b8a6,70:e5b567,100:0a1220" width="100%" alt="" />
