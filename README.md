@@ -17,18 +17,9 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=14B8A6&center=true&vCenter=true&width=420&height=44&duration=1&pause=1000000&letterSpacing=6px&lines=WHAT+I+DO" alt="What I Do" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&color=14B8A6&center=true&vCenter=true&width=320&height=28&duration=1&pause=1000000&letterSpacing=5px&lines=WEB" alt="Web" /><br/>
-  Flask, FastAPI and Next.js.<br/>Vanilla JS single-page apps, full-stack end to end.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&color=E5B567&center=true&vCenter=true&width=320&height=28&duration=1&pause=1000000&letterSpacing=5px&lines=EMBEDDED" alt="Embedded" /><br/>
-  ESP32 firmware, LoRa SX1262 radios,<br/>Arduino and GPS.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&color=60A5FA&center=true&vCenter=true&width=320&height=28&duration=1&pause=1000000&letterSpacing=5px&lines=PRINCIPLES" alt="Principles" /><br/>
-  Offline-first. Readable code. Honest documentation.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=700&pause=150&color=2DD4BF&background=0F1B30&center=true&vCenter=true&width=260&height=140&multiline=true&repeat=false&lines=[+WEB+];%C2%A0;Flask%2C+FastAPI%2C+Next.js;Vanilla+JS+single-page+apps;Full-stack%2C+end+to+end" alt="Web" width="260" />&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=700&pause=150&color=E5B567&background=0F1B30&center=true&vCenter=true&width=260&height=140&multiline=true&repeat=false&lines=[+EMBEDDED+];%C2%A0;ESP32+firmware;LoRa+SX1262+radios;Arduino+and+GPS" alt="Embedded" width="260" />&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=700&pause=150&color=60A5FA&background=0F1B30&center=true&vCenter=true&width=260&height=140&multiline=true&repeat=false&lines=[+PRINCIPLES+];%C2%A0;Offline-first;Readable+code;Honest+documentation" alt="Principles" width="260" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a1220,30:14b8a6,70:e5b567,100:0a1220" width="100%" alt="" />
@@ -98,12 +89,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Leo-Galli&show_icons=true&hide_border=true&bg_color=0a1220&title_color=e5b567&icon_color=14b8a6&text_color=cbd5e1" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Leo-Galli&layout=compact&hide_border=true&bg_color=0a1220&title_color=e5b567&text_color=cbd5e1" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Leo-Galli&show_icons=true&hide_border=true&bg_color=0a1220&title_color=e5b567&icon_color=14b8a6&text_color=cbd5e1" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Galli&layout=compact&hide_border=true&bg_color=0a1220&title_color=e5b567&text_color=cbd5e1" alt="Top languages" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Leo-Galli&bg_color=0a1220&title_color=e5b567&text_color=cbd5e1&border_color=1b2a42" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Leo-Galli&hide_border=true&background=0A1220&ring=14B8A6&fire=E5B567&currStreakNum=F8FAFC&sideNums=CBD5E1&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 
 </div>
 
